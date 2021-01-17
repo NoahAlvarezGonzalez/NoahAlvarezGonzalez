@@ -34,10 +34,7 @@ I'm a code enthusiast, curious about cutting edge technologies, and scientific d
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joffreybvn/)
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Joffreybvn)
-[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joffreybvn)
-[<img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" />](https://joffreybvn.be/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/noahalvarezgonzalez/)
 
 <!--
 **Joffreybvn/Joffreybvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
