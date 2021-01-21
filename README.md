@@ -2,7 +2,7 @@
 
 I'm a junior back-end developper, studying machine learning @[BeCode.org](https://becode.org).
 
-- 🔭 I’m working on the a real time face mask detector.
+- 🔭 I’m working on a real time face mask detector.
 - 🌱 I’m studying Deep Leaning @ [BeCode.org](https://becode.org).
 - 💬 Ask me about Python development in general.
 
